@@ -1,0 +1,10 @@
+sudo gem install rhc
+sudo gem update rhc
+
+rhc setup -l <email>
+
+# Type in "yes" for the two questions you will be asked to setup the RSA Key.
+
+git clone <ssh link from openshift console>
+
+
